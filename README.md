@@ -1,4 +1,4 @@
-# 🍕 Pizza Store Sales Analysis Dashboard (Power BI Project)
+# 🍕 Pizza Store Sales Analysis Dashboard 
 
 This project showcases an interactive Power BI Dashboard built using Pizza Store Sales Data, providing insights into pizza sales performance, revenue contribution, customer preferences by size and category, and monthly ordering trends.
 
