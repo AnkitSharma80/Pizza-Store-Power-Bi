@@ -48,7 +48,7 @@ The workflow includes data preprocessing, transformation using Power Query, DAX 
 ### 🛠 Interactive Slicers
 
 - **Category Slicer**: Filter pizzas by type – Classic, Supreme, Chicken, Veggie  
-- **Size Slicer** *(if implemented)*
+
 
 ### 📊 Charts and Visualizations
 
